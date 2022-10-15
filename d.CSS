@@ -1,0 +1,188 @@
+.header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: rgb(7, 7, 199);
+    font-style: oblique;
+    font-weight: bolder;
+}
+.style{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.primary,a{
+   
+    text-align: center;
+    padding: 5px ;
+    display: inline-block;
+    color:white;
+    font-size: 20px;
+    border:0.01px solid rgb(11, 8, 160);
+}
+.primary a:hover
+{
+    background-color:black;
+    color: white;
+    
+}
+.navbar{
+    background-color:rgb(11, 8, 160) ;
+    padding-bottom: 1px;
+    
+}
+a{
+    text-decoration: none;
+}
+
+
+
+.picturehome{
+    
+    background-size: cover ;
+    background-position: center;
+    padding-top: 2px;
+    position: relative;
+   
+   
+   
+   
+    
+}
+
+    
+
+.picturehome .button{
+    padding: 20px;
+    
+   border-radius: 9px;
+    color:white;
+    
+    
+    background-color: rgb(27, 5, 122);
+    position: absolute;
+    top: 50%;
+    left:75%;
+    transform:   translate(-50%, -75%);
+    -ms-transform: translate(-50%,-75%);
+    text-align: center;
+
+
+}
+.course{
+    float: left;
+    padding-left: 20px;
+    padding-top: 40px;
+    
+    
+    
+}
+.exploregallery{
+    
+    background:url("student community.jpg") ;
+    width: 1350px;
+    height: 900px;
+    background-size: 100%;
+    z-index: -1;
+    
+    
+    
+  
+  
+}
+.t{
+    color:black;
+    background-color: chocolate;
+    font-weight: bolder;
+}
+
+
+.aboutthis{
+    text-align: center;
+    
+    
+    color: rgb(174, 174, 190);
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+   
+.about{
+    padding-top: 50px;
+  
+    padding-bottom:50px ;
+}
+.text{
+    
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: blue;
+    padding: auto;
+    text-align: center;
+    padding-top: 20px;
+}
+.it{
+    padding-right: 90px;
+    padding-left: 50px;
+}
+.last{
+    padding-left:150px;
+}
+.end{
+    padding-left: 150px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+   
+}
+.footer{
+    text-align: center;
+    color: chocolate;
+    background-color: black;
+    padding-top: 100px;
+}
+.final{
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+}
+
+.col1{
+    background-color: rgb(90, 94, 94);
+    padding:200px;
+    border-radius:30px ;
+    
+}
+.col2{
+    background-color:rgb(146, 156, 156) ;
+    padding:465px;
+    border-radius: 30px;
+}
+
+.sign{
+    padding-left: 600px;
+   padding-top: 50x;
+}
+
+.form{
+   
+    background-color: rgb(52, 52, 218);
+    position: fixed;
+    padding: 100px;
+    left: 500px;
+    top: 100px;
+    border-top: 5px solid black ;
+    border-radius: 10px;
+   
+}
+.image{
+    position: fixed;
+}
+
+.b{
+    color:black;
+    text-align: center;
+    padding-bottom: 40px;
+    
+}
